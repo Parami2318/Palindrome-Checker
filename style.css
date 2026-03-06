@@ -1,0 +1,32 @@
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction: column;
+}
+
+input{
+  height: 35px;
+  width: 350px;
+  border: none;
+  background: transparent;
+  outline: none;
+  color: white;
+}
+
+button{
+  height: 35px;
+  color: white;
+  width: 70px;
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(14, 14, 14);
+}
+
+.section{
+  align-items: centers;
+  width: 430px;
+  height: 3opx;
+  background-color: rgb(151, 148, 142);
+  border-radius: 15px;
+}
